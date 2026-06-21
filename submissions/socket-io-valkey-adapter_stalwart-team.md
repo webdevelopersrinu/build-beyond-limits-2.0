@@ -16,7 +16,7 @@ A native [Valkey](https://valkey.io) adapter for [Socket.IO](https://socket.io) 
 | Srinu Desetti | https://www.linkedin.com/in/srinu-desetti/ |
 
 **GitHub Username (repo owner):** chandu-s-1729
-**GitHub Project Repository:** https://github.com/chandu-s-1729/socket-valkey-adaptor_stalwart-team
+**GitHub Project Repository:** https://github.com/webdevelopersrinu/socket.io-valkey-adapter/actions
 
 ---
 
