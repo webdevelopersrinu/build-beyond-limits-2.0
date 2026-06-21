@@ -15,8 +15,10 @@ A native [Valkey](https://valkey.io) adapter for [Socket.IO](https://socket.io) 
 | Chandrasekhar K | https://www.linkedin.com/in/chandrasekhark1729/ |
 | Srinu Desetti | https://www.linkedin.com/in/srinu-desetti/ |
 
-**GitHub Username (repo owner):** chandu-s-1729
-**GitHub Project Repository:** https://github.com/chandu-s-1729/socket-valkey-adaptor_stalwart-team
+**GitHub Username (repo owner):** webdevelopersrinu
+**GitHub Project Repository:** https://github.com/webdevelopersrinu/socket.io-valkey-adapter
+**Live Website:** https://valkey.srinudesetti.in/
+**npm Package:** https://www.npmjs.com/package/socket.io-valkey-adapter
 
 ---
 
@@ -101,9 +103,10 @@ We are reimplementing the existing `socket.io-redis-adapter` as `socket.io-valke
 
 ## Screenshots or Demo
 
-**Deployed Link:** —
+**Deployed Link (Live Website):** https://valkey.srinudesetti.in/
+**npm Package:** https://www.npmjs.com/package/socket.io-valkey-adapter
 **Demo Video Link:** —
-**GitHub Repository:** https://github.com/chandu-s-1729/socket-valkey-adaptor_stalwart-team
+**GitHub Repository:** https://github.com/webdevelopersrinu/socket.io-valkey-adapter
 **Screenshots:** —
 
 ---
