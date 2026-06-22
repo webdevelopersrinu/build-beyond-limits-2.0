@@ -2,6 +2,14 @@
 
 A native [Valkey](https://valkey.io) adapter for [Socket.IO](https://socket.io) — the equivalent of `socket.io-redis-adapter`, but powered by Valkey instead of Redis, enabling real-time multi-server WebSocket broadcasting.
 
+> 📦 **Published on npm:** https://www.npmjs.com/package/socket.io-valkey-adapter  ·  🌐 **Live Website:** https://valkey.srinudesetti.in/
+
+### Live Website
+![Live Website — valkey.srinudesetti.in](../img/website.png)
+
+### Published npm Package
+![npm package — socket.io-valkey-adapter](../img/napm.png)
+
 ---
 
 ## Attendee/Team Details
